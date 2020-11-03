@@ -1,0 +1,1 @@
+canAtk1 = true;

@@ -1,0 +1,1 @@
+alarm[0] = 120; //return to last room

@@ -1,0 +1,1 @@
+oSenseiSpawner.called = true;

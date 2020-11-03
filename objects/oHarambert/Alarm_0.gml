@@ -1,0 +1,3 @@
+with(oGame) {
+	mode = "close";
+}
